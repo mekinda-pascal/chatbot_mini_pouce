@@ -1,0 +1,13 @@
+@baseUrl = http://localhost:3000
+GET http://localhost:3000/api/listQuestions
+
+###
+
+
+### POST /webhook
+POST {{baseUrl}}/webhook
+Content-Type: application/json
+
+{
+  "message": "Bonjour 855556565 mon frere "
+}

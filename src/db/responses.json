@@ -1,0 +1,250 @@
+[
+  {
+    "question": "Bonjour !!",
+    "answer": "Bonjour, que puis-je faire pour vous?"
+  },
+  {
+    "question": "Comment ça va ?",
+    "answer": "Je suis un chatbot, je vais bien, merci ! Et vous ?"
+  },
+  {
+    "question": "Quel temps fait-il aujourd'hui ?",
+    "answer": "Je suis désolé, je ne peux pas vous dire la météo."
+  },
+  {
+    "question": "Quels sont les forfaits disponibles sur le réseau CAMTEL ?",
+    "answer": "CAMTEL propose plusieurs forfaits, dont Blue One, Blue Nous, Blue On, Blue Sky, Blue Home, Blue Go, Blue Go+, Blue Mo et Blue Max."
+  },
+  {
+    "question": "Pourquoi le forfait Blue One est-il considéré comme la meilleure option ?",
+    "answer": "Blue One se distingue par ses tarifs compétitifs et son accès à Internet illimité."
+  },
+  {
+    "question": "Quels problèmes techniques pourraient affecter l'utilisation des forfaits Blue ?",
+    "answer": "Certains utilisateurs peuvent rencontrer des problèmes de saturation du réseau ou des problèmes techniques à certaines heures de la journée."
+  },
+  {
+    "question": "Comment puis-je suivre ma consommation avec un forfait Blue ?",
+    "answer": "Vous pouvez suivre votre consommation en composant le code *825# ou en utilisant la plateforme en ligne my.xtremnet.cm."
+  },
+  {
+    "question": "Quelles sont les différentes options de forfaits Blue proposées ?",
+    "answer": "CAMTEL propose une variété de forfaits, notamment Blue Nous, Blue On, Blue Sky, Blue Home, Blue Go, Blue Go+, Blue Mo et Blue Max."
+  },
+  {
+    "question": "Description des forfaits camtels ?",
+    "answer": "Les forfaits Blue proposés sont : Blue mo, Blue go, Blue go+, Blue home, Blue max, Blue sky, Blue nous, Blue one\n\n                            Blue mo (donnée en 4G a des bas prix)  propose : \n                            Blue mo S : donnée 4G 1 000Mb ; prix 100 FCFA ; durée 3H\n                            Blue mo M : donnée 4G 1 500Mb ; prix 300 FCFA ; durée 24H\n                            Blue mo L : donnée 4G 2 000Mb ; prix 500 FCFA ; durée 48H\n                            Blue mo XL : donnée 4G 2 000Mb ; prix 1000 FCFA ; durée 7jours \n                             Blue mo XXL : donnée 4G 10 000Mb ; prix 5000 FCFA ; durée 48H\n                            Blue mo L : donnée 4G 2 000Mb ; prix 5000 FCFA ; durée 48H\n\n                            Blue go offre des données 4G avec limitation de données par jour. Idéal pour une consommation journalière modérée On a :\n                            Blue Night : donnée 4G 5Gb ; prix 250 FCFA ; durée 22H-6H\n                            Blue go S : donnée 4G total 9 Gb avec 300 Mb/jour ; prix 2 000 FCFA ; durée 1 mois\n                            Blue go M : donnée 4G total 25.5 Gb avec 850 Mb/jour ; prix 5 000 FCFA ; durée 1 mois\n                            Blue go L : donnée 4G total 60 Gb avec 2 Gb/jour ; prix 10 000 FCFA ; durée 1 mois\n                            Blue go XL : donnée 4G total 135 Gb avec 4.5 Gb/jour ; prix 20 000 FCFA ; durée 1 mois\n                            Blue go XXL : donnée 4G total 240 Gb avec 8 Gb/jour ; prix 35 000 FCFA ; durée 1 mois\n\n                            Blue go+ offre des données 4G sans limitation de données par jour. On a :\n                            Blue go S : donnée 4G total 60 Gb ; prix 15 000 FCFA ; durée 1 mois\n                            Blue go M : donnée 4G total 135 Gb ; prix 25 000 FCFA ; durée 1 mois\n                            Blue go L : donnée 4G total 240 Gb ; prix 40 000 FCFA ; durée 1 mois\n\n                            Blue home offre des données 4G, des données illimitées 3G+ lorsque les données 4G sont épuisées avec jusqu’à 3 Mbps de vitesse. Idéal pour les modems maison et/ou les mobiles On a :\n                            Blue go S : donnée 4G total 45 Gb ; données 3G+ illimitées ; débit 3G de 2 Mbps ; prix 15 000 FCFA ; durée 1 mois\n                            Blue go M : donnée 4G total 100 Gb ; données 3G+ illimitées ; débit 3G de 2.5 Mbps ; prix 15 000 FCFA ; durée 1 mois\n                            Blue go L : donnée 4G total 200 Gb ; données 3G+ illimitées ; débit 3G de 3 Mbps ; prix 15 000 FCFA ; durée 1 mois\n\n                            Blue max offre une ultra vitesse par fibre optique à la maison avec jusqu’à 35 Mbps illimités ainsi que des appels. On a :\n                            Blue max S : données illimitées ; débit 10 Mbps ; 200 min appel hors réseau ; 90 min d’appel hors réseau ; prix 25 000 FCFA ; durée 1 mois\n                            Blue max M : données illimitées ; débit 16 Mbps ; 300 min appel hors réseau ; 120 min d’appel hors réseau ; prix 35 000 FCFA ; durée 1 mois\n                            Blue max L : données illimitées ; débit 25 Mbps ; 400 min appel hors réseau ; 150 min d’appel hors réseau ; prix 50 000 FCFA ; durée 1 mois\n                            Blue max XL : données illimitées ; débit 35 Mbps ; 500 min appel hors réseau ; 180 min d’appel hors réseau ; prix 60 000 FCFA ; durée 1 mois\n\n                            Blue nous offre les SMS et appels illimités Camtel, des appels et SMS vers tous les autres réseaux ainsi que les données. On a :\n                            Blue nous S : SMS et appels illimités ; 10 000 unités d’appels tous réseaux ; 200 SMS tous réseaux ; donnée totale 2 Gb ; prix 2 000 ; durée 1 mois\n                            Blue nous M : SMS et appels illimités Camtel ; 25 000 unités d’appels tous réseaux ; 500 SMS tous réseaux ; donnée totale 5 Gb ; prix 5 000 ; durée 1 mois\n                            Blue nous L : SMS et appels illimités Camtel ; 50 000 unités d’appels tous réseaux ; 1 000 SMS tous réseaux ; donnée totale 10 Gb ; prix 10 000 ; durée 1 mois\n                            Blue nous XL : SMS and appels illimités Camtel ; 100 000 unités d’appels tous réseaux ; 2 000 SMS tous réseaux ; donnée totale 20 Gb ; prix 20 000 ; durée 1 mois\n                            Blue nous S : SMS and appels illimités Camtel ; 175 000 unités d’appels tous réseaux ; 3 500 SMS tous réseaux ; donnée totale 35 Gb ; prix 35 000 ; durée 1 mois\n\n                            Blue sky uniquement pour les appels illimités vers les numéros Blue ; prix 2 000 FCFA ; durée 1 mois\n\n                            Blue one / Blue 1 offre l'internet illimité en 3G lorsque les données 4G sont épuisées, appels et SMS à des prix très abordables, idéal pour les étudiants. On a :\n                            Blue one S : données 4G total 4 GB ; données 3G illimitées ; 4 000 unités d'appel tous réseaux ; 100 SMS sur le réseau ; prix 2 000 FCFA ; durée 7 jours\n                            Blue one M : données 4G total 4.5 GB ; données 3G illimitées ; 6 000 unités d'appel tous réseaux ; 200 SMS sur le réseau ; prix 3 000 FCFA ; durée 1 mois\n                            Blue one L : données 4G total 8 GB ; données 3G illimitées ; 10 000 unités d'appel tous réseaux ; 300 SMS sur le réseau ; prix 5 000 FCFA ; durée 1 mois\n                            Blue one XL : données 4G total 20 GB ; données 3G illimitées ; 20 000 unités d'appel tous réseaux ; 400 SMS sur le réseau ; prix 10 000 FCFA ; durée 1 mois\n                            Blue one XXL : données 4G total 50GB ; données 3G illimitées ; 40 000 unités d'appel tous réseaux ; 500 SMS sur le réseau ; prix 20 000 FCFA ; durée 1 mois\n"
+  },
+  {
+    "question": "Comment puis-je souscrire à un forfait Blue ?",
+    "answer": "Vous pouvez souscrire à un forfait Blue de plusieurs façons:\n-en composant *825# et suivre les étapes\n-sur la plateforme my xtremnet.cm\n-en vous rendant dans une agence commerciale Camtel."
+  },
+  {
+    "question": "Puis-je partager ma connexion avec d'autres personnes en utilisant un forfait Blue ?",
+    "answer": "Les forfaits Blue sont liés à une puce spécifique, mais vous pouvez partager votre connexion par WiFi en activant un point d'accès dans les paramètres de votre téléphone."
+  },
+  {
+    "question": "Les forfaits Blue sont-ils disponibles en dehors du territoire national ?",
+    "answer": "Actuellement, les forfaits Blue sont uniquement disponibles sur le territoire national."
+  },
+  {
+    "question": "Quels sont les tarifs d'appel vers les numéros internationaux avec le forfait bleu Camtel ?",
+    "answer": "Actuellement, les forfaits Blue sont uniquement disponibles sur le territoire national."
+  },
+  {
+    "question": "Pourquoi c’est impossible de suivre sa consommation de données ?",
+    "answer": "Il est possible de suivre sa consommation via\n-le code *825# vous permet de suivre votre consommation\n-la plateforme my xtremnet.cm."
+  },
+  {
+    "question": "Pourquoi ils ne signalent pas lorsque ta consommation journalière finit (en ce qui concerne les forfaits du mois) ?",
+    "answer": "Pour le moment cette option n'est pas disponible, mais c'est dans les projets à venir."
+  },
+  {
+    "question": "Comment est-il possible d’appeler sans savoir avec quel crédit on appelle ? (Moi j’appelle et lorsque je consulte mon crédit téléphone ou autre… rien ne change)",
+    "answer": "On ne peut consulter son crédit appel qu’en utilisant my xtremnet.cm."
+  },
+  {
+    "question": "Quels sont les différents codes pour accéder à chaque forfait ?",
+    "answer": "*825*1*1*1# pour les appels + sms + internet illimités\n*825*1*1*2# internet uniquement\n*825*1*1*3# appel illimités.\n*825*1*1*4# internet illimités fixe (WTTX)"
+  },
+  {
+    "question": "Quel est le code pour les appels illimités ?",
+    "answer": "Le code est *825*1*1*3#; puis choisir le tarif qui convient."
+  },
+  {
+    "question": "Quel est le code pour les appels, SMS et Internet ?",
+    "answer": "Le code est *825*1*1*1#; puis choisir le tarif qui vous convient."
+  },
+  {
+    "question": "Quel est le code pour l'internet uniquement ?",
+    "answer": "Le code est *825*1*1*3#; puis choisir le tarif qui vous convient."
+  },
+  {
+    "question": "Quels sont les codes USSD de Camtel ?",
+    "answer": "Connaître son numéro de téléphone : *825#\nActiver forfait : *825#\nConsultation du solde principal :  *825*1 ou appel au 124\nConsultation du solde internet : *825*1\nTransfert du crédit : *126*montant *numéro*code secret# puis lancer l’appel\nRecharge par carte de crédit : *826*numéro de la carte #\nAcheter un forfait Camtel via Orange Money, MTN Money, UBA, Afriland, EU et Cie : #237*620#."
+  },
+  {
+    "question": "Est-ce que le roaming est proposé par les services Blue ?",
+    "answer": "Les services Blue ne sont disponibles que sur le territoire national pour le moment, impossible d’en bénéficier à l’extérieur; le roaming n'est pas encore possible."
+  },
+  {
+    "question": "Comment puis-je résilier mon forfait Blue?",
+    "answer": "Il est impossible de résilier son forfait Blue lorsque celui-ci a déjà été activé."
+  },
+  {
+    "question": "Quel est le forfait Blue approprié pour moi pour faire des recherches et un peu de streaming?",
+    "answer": "Blue one M est le forfait le plus accessible à un prix abordable avec internet illimité."
+  },
+  {
+    "question": "Quelle est la durée de validité des recharges sur le forfait Blue Camtel ?",
+    "answer": "La durée de validité dépend du forfait auquel vous avez souscrit, le plus souvent elle est de 1 mois."
+  },
+  {
+    "question": "Est-ce que le roaming est proposé par les services Blue ?",
+    "answer": "Les services Blue ne sont disponibles que sur le territoire national pour le moment, impossible d’en bénéficier à l’extérieur; le roaming n'est pas encore possible."
+  },
+  {
+    "question": "Comment puis-je recharger mon forfait Blue Camtel en ligne ?",
+    "answer": "Il est possible de recharger votre forfait en ligne via la plateforme my xtremnet.cm."
+  },
+  {
+    "question": "Quels sont les avantages inclus dans le forfait Blue Camtel ?",
+    "answer": "Blue offre l'internet illimité à des prix très abordables et un haut débit important."
+  },
+  {
+    "question": "Comment puis-je transférer du crédit à un autre numéro avec le forfait Blue Camtel ?",
+    "answer": "Vous pouvez utiliser le code USSD *825*1*2#."
+  },
+  {
+    "question": "Quels sont les tarifs d'envoi de SMS avec le forfait Blue Camtel ?",
+    "answer": "Voici quelques tarifs : - 2 000 FCFA pour 100 SMS pendant la semaine + internet illimité + 1 000 unités d'appel - 3 000 FCFA pour 200 SMS pour 1 mois + internet illimité + 6 000 unités d'appel - 5 000 FCFA pour 300 SMS pour 1 mois + internet illimité + 10 000 unités d'appel - 10 000 FCFA pour 400 SMS pour 1 mois + internet illimité + 20 000 unités d'appel - 20 000 FCFA pour 500 SMS pour 1 mois + internet illimité + 40 000 unités d'appel. Vous pouvez également vous connecter sur notre plateforme my xtremnet.cm pour plus de détails."
+  },
+  {
+    "question": "Quels sont les tarifs d'utilisation d'Internet mobile avec le forfait Blue Camtel ?",
+    "answer": "Voici quelques tarifs d'utilisation d'Internet mobile pour les forfaits Blue Camtel :\n- Blue one S : données 4G totales 4 GB ; données 3G illimitées ; 4 000 unités d'appel tous réseaux ; 100 SMS sur le réseau ; prix 2 000 FCFA ; durée 7 jours.\n- Blue one M : données 4G totales 4.5 GB ; données 3G illimitées ; 6 000 unités d'appel tous réseaux ; 200 SMS sur le réseau ; prix 3 000 FCFA ; durée 1 mois.\n- Blue one L : données 4G totales 8 GB ; données 3G illimitées ; 10 000 unités d'appel tous réseaux ; 300 SMS sur le réseau ; prix 5 000 FCFA ; durée 1 mois.\n- Blue one XL : données 4G totales 20 GB ; données 3G illimitées ; 20 000 unités d'appel tous réseaux ; 400 SMS sur le réseau ; prix 10 000 FCFA ; durée 1 mois.\n- Blue one XXL : données 4G totales 50 GB ; données 3G illimitées ; 40 000 unités d'appel tous réseaux ; 500 SMS sur le réseau ; prix 20 000 FCFA ; durée 1 mois.\n- Blue go+ S : donnée 4G totale 60 Gb ; prix 15 000 FCFA ; durée 1 mois.\n- Blue go+ M : donnée 4G totale 135 Gb ; prix 25 000 FCFA ; durée 1 mois.\n- Blue go+ L : donnée 4G totale 240 Gb ; prix 40 000 FCFA ; durée 1 mois.\nVous pouvez consulter la plateforme my xtremnet.cm pour plus de détails."
+  },
+  {
+    "question": "Comment puis-je configurer les paramètres Internet sur mon téléphone pour utiliser le forfait bleu Camtel ?",
+    "answer": "Pour configurer les paramètres Internet sur votre téléphone, suivez ces étapes en fonction de votre système d'exploitation :\n\nSi vous utilisez Android :\n1. Allez dans les 'Paramètres' de votre appareil.\n2. Sélectionnez 'Réseaux mobiles' ou 'Connexions mobiles'.\n3. Choisissez 'Noms des points d'accès' ou 'APN'.\n4. Appuyez sur le signe '+' pour ajouter un nouvel APN.\n5. Remplissez les informations suivantes :\n  - Nom : Camtel\n  - APN : camtel\n  - Proxy : Non défini\n  - Port : Non défini\n  - Nom d'utilisateur : Non défini\n  - Mot de passe : Non défini\n  - Serveur : Non défini\n  - MCC : 624\n  - MNC : 03\n  - Type d'authentification : Aucune\n  - Type d'APN : par défaut\n  - Protocole APN : IPv4\n  - Protocole de roaming APN : IPv4\n6. Enregistrez les paramètres et redémarrez votre appareil.\n\nCes informations peuvent légèrement varier en fonction de la version d'Android utilisée sur votre appareil.\n\nSi vous utilisez un iPhone :\n1. Allez dans les 'Réglages' de votre iPhone.\n2. Sélectionnez 'Cellulaire' ou 'Données cellulaires'.\n3. Activez les 'Données cellulaires'.\n4. Choisissez 'Réseau de données cellulaires' ou 'Nom du point d'accès'.\n5. Remplissez les informations suivantes :\n  - Nom du point d'accès : camtel\n  - Nom d'utilisateur : laissez vide\n  - Mot de passe : laissez vide\n6. Enregistrez les paramètres et redémarrez votre iPhone.\n\nCes informations peuvent légèrement varier en fonction de la version d'iOS utilisée sur votre appareil."
+  },
+  {
+    "question": "Quels sont les numéros d'urgence disponibles avec le forfait bleu Camtel ?",
+    "answer": "Voici les numéros d'urgence et les codes USSD pour les forfaits Blue Camtel :\n\n- Connaître son numéro de téléphone : *825#\n- Activer forfait : *825#\n- Consultation du solde principal : *825*1 ou appel au 124\n- Consultation du solde internet : *825*1\n- Transfert du crédit : *126*montant*numéro*code secret# puis lancer l'appel\n- Recharge par carte de crédit : *826*numéro de la carte #\n- Acheter un forfait Camtel via Orange Money, MTN Money, UBA, Afriland, EU et Cie : #237*620#\n\nNuméro court :\n- Service client : 825\n- Consulter solde : 124"
+  },
+  {
+    "questions": "Comment puis-je obtenir de l'assistance en cas de problème avec mon forfait Blue ?",
+    "answer": "Vous pouvez contacter le service clientèle en composant le 825 ou le 828, ou rejoindre le groupe WhatsApp dédié au 621304141/621304242/621304343."
+  },
+  {
+    "questions": "Y a-t-il des promotions actuellement disponibles pour les forfaits Blue ?",
+    "answer": "Actuellement, aucune promotion n'est en cours, mais les forfaits Blue restent abordables."
+  },
+  {
+    "questions": "Existe-t-il des forfaits spéciaux pour les étudiants ou les personnes âgées ?",
+    "answer": "Oui, CAMTEL propose des forfaits spéciaux tels que Blue On M pour les étudiants et Blue On XL/XXL pour les personnes âgées."
+  },
+  {
+    "questions": "Quels forfaits Blue sont recommandés pour le streaming vidéo ou les jeux en ligne ?",
+    "answer": "Les forfaits recommandés pour le streaming vidéo sont Blue Home, Blue On XL et Blue On XXL. Pour les jeux en ligne, Blue Go+ offre un haut débit approprié."
+  },
+  {
+    "questions": "Quels sont les problèmes courants avec les forfaits Blue ?",
+    "answer": "Les problèmes courants incluent des difficultés de paramétrage ou d'activation de la puce ou des problèmes de connexion."
+  },
+  {
+    "questions": "Quelles sont les conditions d'utilisation et les exigences techniques pour les forfaits Blue ?",
+    "answer": "Les conditions d'utilisation comprennent la nécessité d'avoir une puce Blue, un terminal avec au moins 2 Go de RAM et la compatibilité avec la 4G. Les clés internet et les modems WiFi sont également pris en charge."
+  },
+  {
+    "questions": "Quels sont les projets d'amélioration prévus pour le réseau CAMTEL ?",
+    "answer": "CAMTEL prévoit d'augmenter la capacité de ses équipements et d'étendre son réseau pour résoudre les problèmes de couverture et de saturation du réseau."
+  },
+  {
+    "questions": "Quels sont les avantages des forfaits Blue de CAMTEL ?",
+    "answer": "Les forfaits Blue de CAMTEL offrent un haut débit abordable pour accéder à diverses plateformes de travail et de divertissement à des tarifs compétitifs:\n-forfaits illimités à des prix très abordables\n-haut débit\n-facilement accessibles à tout le monde selon le besoin."
+  },
+  {
+    "questions": "Comment puis-je rester informé des dernières offres spéciales et actualités de CAMTEL ?",
+    "answer": "Tout le monde est éligible aux offres spéciales, et une campagne médiatique est organisée pour les informer; dans un tel cas je vous tiendrais informé."
+  },
+  {
+    "questions": "Que se passe-t-il lorsque ma limite de données ou d'appels est dépassée avec un forfait Blue ?",
+    "answer": "Il s'agit d'un service prépayé, alors lorsque la limite est dépassée, le service est automatiquement suspendu."
+  },
+  {
+    "questions": "Que faire si ma puce Blue ne fonctionne pas correctement ?",
+    "answer": "Si votre puce Blue ne fonctionne pas correctement, il est recommandé de vous rendre dans une agence CAMTEL ou de contacter le service clientèle via le 825 ou le groupe WhatsApp dédié."
+  },
+  {
+    "questions": "Comment puis-je diagnostiquer des problèmes de connexion ?",
+    "answer": "Vous pouvez diagnostiquer des problèmes de connexion en vérifiant l'état de la connexion, les paramètres de la connexion et la connectivité réseau."
+  },
+  {
+    "questions": "Comment vérifier l'état de ma connexion ?",
+    "answer": "Pour vérifier l'état de votre connexion, assurez-vous que la connexion est active. Si elle est inactive, essayez de redémarrer votre appareil ou de contacter le support technique."
+  },
+  {
+    "questions": "Comment vérifier les paramètres de ma connexion ?",
+    "answer": "Assurez-vous que les paramètres de la connexion sont corrects, y compris le nom (Camtel) et d'autres paramètres spécifiques. Si les paramètres sont incorrects, modifiez-les conformément aux recommandations de Camtel."
+  },
+  {
+    "questions": "Comment vérifier la connectivité réseau ?",
+    "answer": "Pour vérifier la connectivité réseau, assurez-vous que votre appareil est correctement connecté au réseau et que le signal est suffisant. Vous pouvez également essayer de redémarrer votre appareil ou de rechercher des pannes de réseau dans votre région."
+  },
+  {
+    "questions": "Que faire si ma puce Blue ne fonctionne pas correctement ?",
+    "answer": "Si votre puce Blue ne fonctionne pas correctement, il est recommandé de vous rendre dans une agence CAMTEL ou de contacter le service clientèle via le 825 ou le groupe WhatsApp dédié."
+  },
+  {
+    "questions": "Quel forfait Blue est le plus approprié pour une expérience de navigation fluide sur toutes les plateformes, y compris le streaming et les jeux en ligne ?",
+    "answer": "Pour une expérience de navigation fluide sur toutes les plateformes, même celles gourmandes en données, le forfait Blue Go+ avec 240 Go de données pour 40 000 FCFA est le choix idéal."
+  },
+  {
+    "questions": "comment se connecter a la plateforme my xtremnet.cm",
+    "answer": "Pour vous connecter à la plateforme de rechargement myxtremnet.cm, vous devez entrer dans le navigateur myxtremnet.cm, puis saisir vos informations de connexion, qui sont le numéro de service et le mot de passe."
+  },
+  {
+    "questions": "qu'est ce que le numéro de service?",
+    "answer": "Votre numéro de service est le numéro à neuf (09) chiffres (24XXXXXXX ou 62XXXXXXX) qui identifie votre compte X-tremNet sur myxtremnet.cm. Il vous est attribué à l'achat d'un pack X-tremNet dans nos agences commerciales et points de vente agréés et se lit sur la carte qui contient la puce."
+  },
+  {
+    "questions": "comment faire si j'ai oublié mon numéro de service?",
+    "answer": "En cas d'oubli de votre numéro de service, veuillez contacter l'une de nos agences commerciales via le 825 ou vous y rendre directement."
+  },
+  {
+    "questions": "quel est le mot de passe demandé pour me connecter sur my xtrmnet.cm",
+    "answer": "Le mot de passe par défaut est le code qui vous permet d'accéder à votre compte myxtremnet pour la toute première fois."
+  },
+  {
+    "questions": "comment faire si j'ai oublié mon mot de passe",
+    "answer": "En cas d'oubli du mot de passe, rendez-vous dans l'une de nos agences commerciales, sur présentation de l'original de votre pièce d'identité (CNI, passeport, etc.), demandez une réinitialisation de mot de passe en indiquant votre numéro de service. Il vous sera alors remis un mot de passe par défaut."
+  },
+  {
+    "questions": "comment changer son mot de passe my xtremnet",
+    "answer": "Pour changer votre mot de passe myxtremnet :\n1. Connectez-vous à votre compte myxtremnet, cliquez sur le lien CHANGER SON MOT DE PASSE.\n2. Saisissez le mot de passe en cours, saisissez le nouveau mot de passe, confirmez le nouveau mot de passe.\n3. Cliquez sur CHANGER."
+  },
+  {
+    "questions": "comment suivre ma consommation de données",
+    "answer": "Pour suivre votre consommation de données :\n1. Renseignez les champs de numéro de service et mot de passe obtenus en agence, saisissez le code de vérification.\n2. Allez sur l'onglet 'Service' et cliquez sur 'Consultation de compte' pour voir votre solde."
+  },
+  {
+    "questions": "comment vérifier mon solde",
+    "answer": "Pour vérifier votre solde :\n1. Renseignez les champs de numéro de service et mot de passe obtenus en agence, saisissez le code de vérification.\n2. Allez sur l'onglet 'Service' et cliquez sur 'Consultation de compte' pour voir votre solde."
+  },
+  {
+    "questions": "mon numéro a été mis dans la liste noire à la connexion, que faire",
+    "answer": "Une utilisation trop accrue de façon malicieuse et inappropriée de la plateforme a pour conséquence de mettre le numéro dans la liste noire par le système. Une attente de 30 minutes permet de sortir automatiquement le numéro de la liste noire."
+  },
+  {
+    "questions": "mon numéro a été mis dans la liste noire des recharges à la connexion, que faire",
+    "answer": "L'action de multiples essais du code secret de la carte de recharge a pour conséquence de mettre le numéro de service dans la liste noire par le système. Veuillez vous rendre dans l'une de nos agences commerciales CAMTEL pour résoudre le problème."
+  },
+  {
+    "questions": "Quel forfait Blue est le plus approprié pour une expérience de navigation fluide sur toutes les plateformes, y compris le streaming et les jeux en ligne ?",
+    "answer": "Le forfait Blue Go+ est le plus approprier."
+  },
+  {
+    "questions": "où sont situées les agences Camtel",
+    "answer": "Localisation des agences Blue\nAgence Blue AKWA\nAgence Blue AKWA NORD\nAgence Blue BASSA\nAgence Blue BONABERI\nAgence Blue BEPANDA\nAgence Blue BONANJO\nAgence Blue BONAPRISO\nAgence Blue CITE DES PALMIERS\nAgence Blue DEIDO"
+  }
+]
