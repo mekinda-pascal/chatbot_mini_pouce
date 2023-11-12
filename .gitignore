@@ -5,6 +5,7 @@
 
 # Node artifact files
 node_modules/
+combined.log
 dist/
 
 # Compiled Java class files
